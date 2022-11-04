@@ -201,7 +201,9 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
 
 
 
-Output screen shots :
+### Output screen shots :
+
+
 ![image](https://user-images.githubusercontent.com/94154683/200011128-e14e1ed7-c4fd-40ca-9dd1-e3c1b54f4f91.png)
 
 ![image](https://user-images.githubusercontent.com/94154683/200011073-8c2602ff-670b-4253-9162-67740d7b928d.png)
